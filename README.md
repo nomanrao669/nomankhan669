@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noman Khan
 - 👀 I’m interested in modern technologies.
-- 🌱 I’m currently learning C++, Python for AI & Data Science.
+- 🌱 I’m currently learning JAVA and Spring Boot.
 - 💞️ I’m looking to collaborate on more open source projects.
 - 📫 How to reach me:
 
