@@ -6,7 +6,7 @@
 
 	- Find me on [LinkedIn][linkedin]
 	- Say 👋 on [Telegram][telegram]
-	- Leave me a message [Noman Khan](mailto:nomankhan669@gmail.com)
+#	- Leave me a message [Noman Khan](mailto:nomankhan669@gmail.com)
 
 [website]: https://nomankhan.dev/
 [linkedin]: https://linkedin.com/in/nomankhan669
